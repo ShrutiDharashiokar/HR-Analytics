@@ -21,3 +21,6 @@ Interactive Slicers: Job title and qualification filters for flexible, focused H
 # Business Problem
 HR teams often lack a consolidated view of workforce data, making it difficult to track salary distribution, employee demographics, leave patterns, and role-wise headcount. This limits their ability to make informed decisions about workforce planning, compensation strategy, and employee management. The dashboard provides a centralized, interactive solution to monitor these key HR metrics effectively.
 
+# Screenshot
+https://github.com/ShrutiDharashiokar/HR-Analytics/blob/main/HR%20Analytics.png
+
